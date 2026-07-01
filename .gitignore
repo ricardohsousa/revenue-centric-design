@@ -5,3 +5,12 @@ Thumbs.db
 *~
 .idea/
 .vscode/
+
+# updater/ maintenance tooling — secrets & regenerable data (the scripts/docs ARE tracked)
+updater/.env
+updater/data/
+updater/staging/
+
+# Python
+__pycache__/
+*.pyc
