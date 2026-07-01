@@ -2,6 +2,13 @@
 
 > Curated, distilled wisdom from @richardrx ("Richard — Design for startups"), translated from Portuguese. Each entry is a reusable principle linked to its source post.
 
+## "Paint the button" is judging the last line of a long cascade
+**Principle.** The visual layer of a landing page is the tip of a cascade that begins at the ICP — so "make it more colorful" critiques the *end* of a process as if it were the start.
+**Apply when.** Gathering or acting on LP feedback, or reaching for button color first.
+**The move.** Work the cascade in order: ICP → the buyer's **awareness level** (Eugene Schwartz's 5 stages) → what you say and how → visual positioning (tone → form, color, type, space). Low awareness: open on the problem, name the pain in the first fold, then the mechanism and your fix. Higher awareness: go straight to your advantages vs. alternatives. Jump to button color and you've silently (and probably wrongly) answered who you sell to, their awareness, which pain, and what tone.
+**Voice.** "They're looking at the end of a process and thinking it's the beginning."
+**Source.** [@richardrx · 2026-06-23](https://x.com/richardrx/status/2069469303464730988)
+
 ## Scaling cold traffic is an honesty test for your page
 **Principle.** Conversion measured on warm audiences (existing followers) is inflated — they forgive the page's flaws. Only cold traffic reveals how much of your rate is the page versus borrowed trust.
 **Apply when.** Ad spend goes up but revenue barely moves, and the conversion rate "drops" even though you fixed nothing.

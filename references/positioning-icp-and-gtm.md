@@ -2,6 +2,14 @@
 
 > Curated, distilled wisdom from @richardrx ("Richard — Design for startups"), translated from Portuguese. Each entry is a reusable principle linked to its source post.
 
+## Size the market with TAM → SAM → SOM (and know which one matters)
+**Principle.** Your real market is far smaller than the population — TAM is a theoretical ceiling (Brazil's 213M becomes ~101M credit-card holders for a paid app). Investors often ignore a TAM under ~R$1B, but the number that matters is the **SOM** — what you can actually capture.
+**Apply when.** Sizing a market, writing a deck, or judging whether a niche is big enough.
+**The move.** TAM = total addressable ceiling; **SAM** = the realistic slice your model reaches (~40% in his example); **SOM** = the 1–5% you truly win in ~36 months — and SOM isn't a guessed %, it comes from real CAC, activation, support capacity and LTV. You can't change your TAM; you change how much of your SAM you convert and retain.
+**Evidence.** RepareCar: ~76k mechanic shops (honest TAM) → SAM ~47k → ~3% ≈ 1,414 shops ≈ R$1.6M ARR; current pace (~10 shops/day) ≈ 7% of SAM in 12 months.
+**Visual.** TAM/SAM/SOM concentric-circle diagram with definitions — `../assets/2070140923380420796__1.jpg`
+**Source.** [@richardrx · 2026-06-25](https://x.com/richardrx/status/2070140923380420796)
+
 ## Frame the referral prize as a gift to the friend, not a commission to the referrer
 **Principle.** Member-get-member (MGM) referral programs win on framing and timing, not just on a two-sided reward. Money makes the exchange feel transactional; an in-product benefit feels like a genuine gift.
 **Apply when.** Designing or fixing a referral program and defaulting to "refer a friend, get $20."

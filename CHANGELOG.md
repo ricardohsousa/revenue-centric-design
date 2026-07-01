@@ -4,6 +4,14 @@ All notable changes to this skill are documented here. Dates are BRT (UTC−3).
 The **Coverage** line in each release records the date of the most recent source
 post included, so future updates know where to pick up.
 
+## [1.1.0] — 2026-07-01
+
+- **+10 principles** distilled from [@richardrx](https://x.com/richardrx) (91 → 101), across
+  Onboarding & Activation, Pricing & Monetization, Churn & Retention, Conversion & Landing
+  Pages, Revenue-Centric Design, and Positioning/ICP/GTM.
+- **Coverage** extended to **2026-01-14 → 2026-07-01**.
+- 2 new diagrams bundled (TAM/SAM/SOM funnel, onboarding welcome modal).
+
 ## [1.0.0] — 2026-06-11
 
 Initial release.

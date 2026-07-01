@@ -2,6 +2,27 @@
 
 > Curated, distilled wisdom from @richardrx ("Richard — Design for startups"), translated from Portuguese. Each entry is a reusable principle linked to its source post.
 
+## The freemium trap, in numbers: higher conversion, far lower cash
+**Principle.** A free plan lifts signup conversion but can crush the economics — the higher top-of-funnel number hides a worse business.
+**Apply when.** You're tempted by freemium's better conversion rate.
+**The move.** Run the funnel (same R$80k/mo traffic, plans from R$199). **With freemium:** ~8% → 800 signups → 80% activate → 5% pay = 32 payers (R$6,368 MRR), saturating ~160 payers under 20% churn, while 768 free users burn AI tokens (~$0.08 each) — real CAC ≈ R$2,540/payer, payback ~13 months. **Without:** ~3% → 300 payers = R$59,700 MRR (~10×), CAC ~R$275, payback ~6 weeks, LTV:CAC 5:1 that reinvests its own profit. Freemium only pays off if free brings *organic/viral* users you didn't pay for.
+**Voice.** "One scenario reinvests its own profit; the other funds losses until the money runs out."
+**Source.** [@richardrx · 2026-07-01](https://x.com/richardrx/status/2072312844784152628)
+
+## Whether freemium works is decided by the cost to serve a free user
+**Principle.** Freemium isn't good or bad in the abstract — the *cost of free* decides, and it hinges on (1) how much it costs to serve non-payers and (2) how long/expensive activation is.
+**Apply when.** Considering a free plan, especially as a bootstrapped (non-bigtech) founder.
+**The move.** If serving a free user costs almost nothing and TTV is short, free becomes an acquisition channel (Slack — first message in minutes; it's the short TTV, not the cash, that sustains it). If the product runs on AI (dollar-priced tokens) or activation is long, a free account is an expensive bet that a small fraction funds — which needs deep pockets (the exception, not the average founder). On a friendly average, only ~3–4% of freemium converts. Otherwise: charge — well, and early.
+**Voice.** "For an AI product, your free user was never free."
+**Source.** [@richardrx · 2026-06-30](https://x.com/richardrx/status/2071962778072469560)
+
+## Price is the cheapest money — stop anchoring it to the cheapest competitor
+**Principle.** Pricing is a SaaS's biggest lever, yet ~90% of products are underpriced — the founder, who knows every limitation, anchors on the cheapest competitor instead of on value delivered. The buyer only sees the problem solved.
+**Apply when.** Setting or revisiting price; fearing a "no."
+**The move.** Raise toward value. A 30% price increase doesn't yield 30% MRR (some churn), but what remains is nearly pure cash — no acquisition in between — while growing a channel 30% costs money, time, and has a ceiling. Low price costs you later: less budget to reach your ICP, a CAC-obsession trap (the real metric is the CAC↔LTV *gap*, which price widens on both sides), and higher churn (cheap attracts uncommitted buyers). Design link: the number must be sustained by perceived value — your page and first use justify or destroy it.
+**Voice.** "Charging more without seeming to be worth more is just raising the price of rejection."
+**Source.** [@richardrx · 2026-06-29](https://x.com/richardrx/status/2071634185228329219)
+
 ## Make the middle plan the one you actually want to sell
 **Principle.** Each plan has a behavioral job, not just a price; the plan you most want to sell should sit in the middle, flanked by a decoy below and an anchor above.
 **Apply when.** Building or auditing a SaaS pricing page, especially if you copied competitors without assigning each tier a role.

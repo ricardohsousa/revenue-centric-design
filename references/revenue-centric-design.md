@@ -18,6 +18,13 @@
 **Voice.** "Rams taught me form and function. Amber Case taught me attention and context. Neither taught me to think about revenue."
 **Source.** [@richardrx · 2026-05-05](https://x.com/richardrx/status/2051672248348479691)
 
+## Design's leverage isn't constant — it changes with the product stage
+**Principle.** Design's payoff is near-zero at MVP and grows to decisive at scale; when a product is dying, design is the *last* place to look for the culprit. Knowing your stage tells you whether design moves the cash or is just vanity.
+**Apply when.** Deciding where design effort should go at your current stage.
+**The move.** Match the discipline to the stage: **MVP** — shorten the path to value and say no to "obvious" features; **Survival** — fix onboarding/activation (the first week beats the whole roadmap and buys runway); **Traction** — conversion (sharp LP + tuned onboarding as channels saturate); **PMF** — depth (design the second "aha," upgrade path, expansion, so retention stabilizes higher); **Scale** — design becomes a system (a design system so 3–4 teams ship without you). Shorten → Activate → Convert → Expand → Systematize.
+**Voice.** "Polishing the UI of a product nobody wants is the most beautiful mistake there is. It dies pretty."
+**Source.** [@richardrx · 2026-06-15](https://x.com/richardrx/status/2066476811177877962)
+
 ## Design owns the flow, not the final coat of paint
 **Principle.** What decides whether a user converts or churns — information order, when you ask for the card, what appears at moments of doubt, when value is first felt — is set and coded long before a "finished" product reaches design.
 **Apply when.** Design is scoped as "make it pretty before launch"; product/eng/requirements own the flow (common in big orgs or eng-led teams).

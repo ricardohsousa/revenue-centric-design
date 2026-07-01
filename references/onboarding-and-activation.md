@@ -2,6 +2,21 @@
 
 > Curated, distilled wisdom from @richardrx ("Richard — Design for startups"), translated from Portuguese. Each entry is a reusable principle linked to its source post.
 
+## An onboarding video welcomes — it doesn't teach
+**Principle.** A good onboarding video isn't a manual (nobody reads their car's or iPhone's). It welcomes, builds connection, shows the product at a glance, and points to where value comes fastest.
+**Apply when.** Designing first-run onboarding or a welcome video.
+**The move.** Aim it at cutting TTV, support tickets, and the lost feeling — not at educating. Length follows your ICP's urgency (someone rushing vs. someone happy to build Lego). No actor or fancy set — Richard recorded his in Screen Studio and it beat many big products'.
+**Visual.** A "Your account was created!" welcome modal with an embedded intro-video thumbnail and a single "Next" CTA — `../assets/2067987722954735812__1.jpg`
+**Voice.** "Your product doesn't need a manual either — have you read your car's?"
+**Source.** [@richardrx · 2026-06-19](https://x.com/richardrx/status/2067987722954735812)
+
+## Rising MRR with rising churn means you lost them on day one
+**Principle.** When MRR and churn climb together, the user didn't leave in month 2 — they were lost the first day, dropped into a dead empty-state dashboard with nothing guiding them to value.
+**Apply when.** Churn is creeping up and you're tempted to blame the product or add features.
+**The move.** It isn't a feature gap — measure **TTV** (time-to-value) and get obsessed with shrinking it. CAC, LTV and activation are *product* metrics, not marketing; with weak retention, acquiring more just fills a leaky bucket faster.
+**Voice.** "It took two months to cancel, but you lost him the first day after signup."
+**Source.** [@richardrx · 2026-06-18](https://x.com/richardrx/status/2067591574138052804)
+
 ## Measure activation, not signups
 **Principle.** Technical founders track the wrong onboarding metrics; signups, session time, and tour completion all flatter you without proving the user reached value.
 **Apply when.** You're judging onboarding by signups, time-in-product, or "completed the tour."

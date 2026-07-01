@@ -2,6 +2,19 @@
 
 > Curated, distilled wisdom from @richardrx ("Richard — Design for startups"), translated from Portuguese. Each entry is a reusable principle linked to its source post.
 
+## Churn and payback are one problem, measured in two places
+**Principle.** Churn and payback look like two problems (often with different owners) but are the same one — both decided in the user's first session, in the gap between entering and feeling the product works.
+**Apply when.** You're fixing churn at the cancel screen and chasing cheaper CAC in the ad manager at the same time.
+**The move.** Both are the wrong place — the decision was made earlier. Activation fixes both: shrink TTV and you retain more AND get each customer across the payback line before they vanish. A customer who dies in month 2 with a 4-month payback never closes the account. Caveat: not all churn is activation (price, a bad channel exist) — but before chasing cheaper CAC, count how many customers die before repaying what they cost.
+**Voice.** "A customer who dies before repaying his CAC is a bill you paid and never collected."
+**Source.** [@richardrx · 2026-06-30](https://x.com/richardrx/status/2071931705573748896)
+
+## Switching cost is what turns months of LTV into years
+**Principle.** The same product, designed differently, yields months vs. years of LTV. Switching cost = the effort a user *perceives* in leaving; low switching cost means thin history and an easy exit.
+**Apply when.** Designing for retention/lock-in, or explaining why a useful product still churns.
+**The move.** Engineer switching cost deliberately — a "compound interest" that grows the product's value over time. Five levers: **muscle memory** (Superhuman/Photoshop shortcuts), **mental model** (Mac↔Windows, Gmail labels), **accumulated personalization** (Spotify playlists, home-screen layout), the **vault effect** (iCloud/Drive/years of WhatsApp), and **autopilot/habit** (variable-reward Skinner-box loops). Sunk cost holds them the way it holds an investor in a falling stock; habit can take months to install but is the difference between LTV of months and years.
+**Source.** [@richardrx · 2026-06-23](https://x.com/richardrx/status/2069382946214080985)
+
 ## Tell the existing base about upgrades before they want to leave
 **Principle.** Reactive improvement communication is a sneaky churn vector: if you only market new versions to cold traffic to avoid cannibalizing the old product, your base assumes the old version is the ceiling and leaves when a competitor looks better.
 **Apply when.** You shipped a better version/feature but only announced it externally; support pitches the migration only at the cancel moment.
