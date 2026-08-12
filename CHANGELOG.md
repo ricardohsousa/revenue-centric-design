@@ -4,6 +4,15 @@ All notable changes to this skill are documented here. Dates are BRT (UTC−3).
 The **Coverage** line in each release records the date of the most recent source
 post included, so future updates know where to pick up.
 
+## [1.2.0] — 2026-08-12
+
+- **+35 principles** distilled from [@richardrx](https://x.com/richardrx) (101 → 136), extending
+  coverage through **2026-08-12**.
+- **2 new themes:** Checkout & Forms (5), Dashboards & Data Visualization (3).
+- Expanded: Conversion & Landing Pages (+9), Pricing & Monetization (+4), Churn & Retention (+5),
+  Product Strategy & Features (+6), Metrics & Experimentation (+3).
+- SKILL.md description + reference index updated for checkout/dashboards keywords.
+
 ## [1.1.0] — 2026-07-01
 
 - **+10 principles** distilled from [@richardrx](https://x.com/richardrx) (91 → 101), across
