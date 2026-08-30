@@ -4,7 +4,7 @@ All notable changes to this skill are documented here. Dates are BRT (UTC−3).
 The **Coverage** line in each release records the date of the most recent source
 post included, so future updates know where to pick up.
 
-## [Unreleased]
+## [1.1.1] — 2026-08-30
 
 - Corrected 6 `**Visual.**` lines whose descriptions or asset citations did not match the
   bundled images (GBB tables now cite `__2`/`__3`; DevNoodles annotation is "Default effect";
