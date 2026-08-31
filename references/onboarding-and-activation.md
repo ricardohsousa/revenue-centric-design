@@ -97,7 +97,7 @@
 **Apply when.** You're weighing an 8-field signup form against email + password.
 **The move.** Default to the minimal form and let qualification happen later, inside the product, from real behavior. Deciding where to add versus remove friction is what separates a product that grows from one that spins its wheels — but it's contextual ("it depends").
 **Evidence.** Same product, two founders: 8-field form (name, email, company, role, phone, segment, team size, how-did-you-hear) → 12% signup rate; email + password only → 34%.
-**Visual.** Annotated onboarding step (DevNoodles): an ICP/intent question flagged "Zeigarnik effect" (the step progress dots) and a B2C/B2B card selector flagged "Progress effect" — showing where each bias is engineered into the flow. — `../assets/2042558822825239030__1.jpg`
+**Visual.** Annotated onboarding step (DevNoodles): an ICP/intent question flagged "Zeigarnik effect" (the step progress dots) and a B2C/B2B card selector flagged "Default effect" (the B2C card is pre-badged "Mais comum") — showing where each bias is engineered into the flow. — `../assets/2042558822825239030__1.jpg`
 **Source.** [@richardrx · 2026-04-10](https://x.com/richardrx/status/2042558822825239030)
 
 ## Celebrate the activation moment, don't just confirm it

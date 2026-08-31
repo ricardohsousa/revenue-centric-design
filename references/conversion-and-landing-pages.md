@@ -98,7 +98,7 @@
 **Apply when.** You're choosing between a page that wins design compliments and one built to convert.
 **The move.** Engineer the converting pattern even if the artist in you cringes: (1) one obvious attention point — eyes go where they must; (2) a high-contrast CTA with redundancy; (3) a clear promise delivering easily-perceived value; (4) guarantee, social proof, and a free element to reduce risk aversion; (5) organic images by the second fold to back the offer and build trust.
 **Evidence.** The analyzed page (quoted): 100 visits → 19 signups, a 19% conversion rate.
-**Visual.** An "ugly-but-converts" waterproofing LP: urgency bar, high-contrast orange CTAs, a short above-the-fold form, stat row (12,500+ / 4.9★ / lifetime warranty), and trust badges — `../assets/2023777916673220817__q__1.jpg`
+**Visual.** An "ugly-but-converts" waterproofing LP: urgency bar, high-contrast orange CTAs, a short above-the-fold form, stat row (12,500+ / 4.9★ / 20+ yrs / 100%), and a trust-badge strip (incl. lifetime warranty) — `../assets/2023777916673220817__q__1.jpg`
 **Voice.** "Some LPs go after compliments, others go after conversion."
 **Source.** [@richardrx · 2026-02-17](https://x.com/richardrx/status/2023777916673220817)
 
