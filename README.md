@@ -3,13 +3,13 @@
 ![Agent Skill](https://img.shields.io/badge/Agent-Skill-5b4ee6)
 ![Principles](https://img.shields.io/badge/principles-101-2ea44f)
 ![Themes](https://img.shields.io/badge/themes-10-2ea44f)
-![Updated](https://img.shields.io/badge/updated-2026--07--01-e67e22)
+![Updated](https://img.shields.io/badge/updated-2026--08--30-e67e22)
 
 > A distilled, English-language playbook for designing SaaS & startup products that **convert, retain, and monetize** — packaged as an [Agent Skill](https://agentskills.io) for Claude Code, Cursor, Codex, Copilot, Gemini, and any [skills.sh](https://skills.sh)-compatible agent.
 
 **101 principles** distilled from the X/Twitter writing of **Richard ([@richardrx](https://x.com/richardrx))** — a product designer specializing in conversion-rate optimization, churn reduction, and applied behavioral science (**ex-Volkswagen, ex-PayPal, ex-IBM**). The throughline is his coined philosophy, **Revenue-Centric Design (RCD)**: design should serve the user _and_ the business — value and revenue, not one or the other.
 
-> **Last updated:** 1 July 2026
+> **Last updated:** 30 August 2026
 > **Coverage:** @richardrx's curated posts from **14 Jan 2026 → 1 Jul 2026** (101 posts). Anything posted after this date is not yet included — see [Updating](#updating).
 
 ## Install
