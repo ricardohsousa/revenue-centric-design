@@ -131,21 +131,22 @@ Awareness → angle / hero / proof:
 **Voice.** "There's no 'conversion rate' in a vacuum. There's contextualized conversion."
 **Source.** [@richardrx · 2026-01-14](https://x.com/richardrx/status/2011427153133351046)
 
-## The 5-second test: a stranger from your ICP must get what you sell in 5 seconds
-**Principle.** The cheapest usability test nobody runs: show your LP hero to one person for 5 seconds, take it away, ask "What does this product do? For whom?" If they can't answer, the hero failed — no matter how pretty it is. In those seconds the brain asks three questions, almost in order: what is this → is this for me → why should I care now.
+## Test hero comprehension with a stranger from your ICP
+**Principle.** A second 5-second test complements the problem-led test above: show your LP hero to one person for 5 seconds, take it away, then ask "What does this product do? For whom?" If they can't answer, the hero failed — no matter how pretty it is. The brain needs three answers: what is this → is this for me → why should I care now.
 **Apply when.** A hero trades clarity for "creativity" ("Revolutionize your workflow" says nothing).
-**The move.** A hero needs: (1) headline saying what the product does in the customer's language, not internal jargon; (2) subheadline nailing the ICP and the concrete result; (3) real visual proof — product screenshot working, not a generic smiling illustration; (4) a specific CTA; (5) immediate social proof above the fold. Specificity sells: "Controle de comandas pra oficina mecânica" beats "Software de gestão." If you covered everything except the hero, could a stranger from your ICP say what you sell in 5 seconds?
+**The move.** Use this with “Pass the 5-second test — lead with the problem, not the feature” above: let the headline lead with pain or a clear benefit, then make the subheadline identify the product, ICP, and concrete result. Add a real product screenshot, a specific CTA, and immediate social proof above the fold. Specificity sells: "Repair-shop work-order control" beats "Management software."
 **Source.** [@richardrx · 2026-05-29](https://x.com/richardrx/status/2060409264683044995)
 
 ## The 2026 landing page checklist
 **Principle.** An all-in-one checklist for a converting LP: Hero (1 clear promise / 1 specific audience / 1 exact-action CTA / show-don't-explain visual / trust seal above the fold). Copy (headline <10 words, benefit before feature, customer language, one central transformation, scannable in 5s). Social proof (logos if you have names, metrics if you have traction, specific result testimonials, zero generic praise). Structure (Hero → Pain → Solution → Proof → CTA; max 3 feature sections; FAQ kills top 5 objections; CTA repeated 2–3x). Technical (<3s load, real mobile-first, single-scroll flow).
 **Apply when.** Auditing or building any LP.
 **The move.** Run the checklist top to bottom. Mantra: Clarity > creativity. Result > feature. Speed > polish. If it doesn't convert in 2026, it's not your traffic — it's your page.
-**Source.** [@richardrx · 2026-01-03](https://x.com/richardrx/status/2007216871607771303)
+**Source.** [@richardrx · 2026-01-02](https://x.com/richardrx/status/2007216871607771303)
 
 ## Founder LP guide: platform doesn't matter, load time does; proof must outweigh the promise
-**Principle.** Profits are more sensitive to conversions than to costs. Five LP rules: (1) The platform is irrelevant (WordPress, Framer, whatever) — content delivered fast is what matters; grade "A" on GTMetrix or keep optimizing. (2) Headline + sub that punch the gut: pain or clear benefit, promise a solution, be short, be a little weird. Subhead makes the title's promise tangible/credible. (3) A great visual that contrasts with what the ICP sees daily — real illustration/AI, not cheap stock. (4) Proof ≥ promise: pyramid structure — strong/shallow at top, dense/technical as you scroll; testimonials/cases/citations that support your mechanism. (5) Clear direct CTAs every ~1.5 sections, tied to what the product delivers.
+**Principle.** Profits are more sensitive to conversions than to costs, and the landing page is often the first gate between a founder's product and its users. The platform matters less than speed, clarity, contrast, proof, and direct action.
 **Apply when.** Building a first LP cheaply.
+**The move.** Follow five rules: (1) use any platform, but deliver content fast and target an "A" on GTMetrix; (2) lead with a short pain or clear benefit, then make the promise tangible in the subhead; (3) create visual contrast with what the ICP sees daily; (4) ensure proof ≥ promise, moving from strong/shallow at the top to denser evidence below; (5) use direct CTAs tied to the outcome about every 1.5 sections.
 **Voice.** "Nobody wants to know about your product's features — they want what it generates or the pain it kills. Not 6GB of space, 3,000 songs in your pocket."
 **Source.** [@richardrx · 2025-11-10](https://x.com/richardrx/status/1987842649261261240)
 
@@ -159,28 +160,22 @@ Awareness → angle / hero / proof:
 **Principle.** A single line of text reducing perceived risk can save conversion — in CRO these are "click triggers" (marketing calls it objection-breaking): "Lifetime guarantee," "Free shipping," "7 days free, no card." It's certainty placed on top of a known ICP doubt.
 **Apply when.** Users hesitate right before the CTA.
 **The move.** Find the real objections by talking to customers and reading complaint pages (ReclameAqui) and app-store comments; then test which click trigger performs best. No mystery, just work — and it works.
-**Source.** [@richardrx · 2025-12-20](https://x.com/richardrx/status/2002076748112875558)
+**Source.** [@richardrx · 2025-12-19](https://x.com/richardrx/status/2002076748112875558)
 
 ## Match CTA microcopy to the funnel stage
-**Principle.** Button text should change with the user's progress in the funnel — the verb matches the mental state at each stage. First interaction: "Descubra como funciona." Product page: "Quero esse produto." Checkout: "Finalizar minha compra." Short (≤4 words), clear, directional. This discreet personalization raises perceived control, confidence, and conversion.
+**Principle.** Button text should change with the user's progress in the funnel — the verb matches the mental state at each stage. First interaction: "Descubra como funciona" ("See how it works"). Product page: "Quero esse produto" ("I want this product"). Checkout: "Finalizar minha compra" ("Complete my purchase"). Short (≤4 words), clear, directional. This discreet personalization raises perceived control, confidence, and conversion.
 **Apply when.** One generic CTA label serves the whole journey.
 **The move.** Audit every CTA against the stage it appears in; test stage-matched variants. Small adjustments, large results.
 **Source.** [@richardrx · 2025-11-07](https://x.com/richardrx/status/1986836679953719632)
 
-## Precise numbers outconvert round ones — "526 houses" beats "more than 500"
-**Principle.** Exact figures read as factual; round numbers read as marketing. In a 2006 study (Schindler, Rutgers; Yalch, U. Washington), claims of "47% or 53% longer duration" were judged ~10% more accurate than the rounded "50% longer." "526 houses sold" inspires trust; "more than 500" signals marketing.
-**Apply when.** Writing any quantified claim on a page.
-**The move.** Use the precise number wherever you have it — units sold, percentage improved, time saved. Precision is a trust signal.
-**Source.** [@richardrx · 2026-02-18](https://x.com/richardrx/status/2024141244717281514)
-
-## Real humans outconvert models — cegueira publicitária (banner blindness)
-**Principle.** HighHire (now Basecamp) tested homepage variants with different human figures; real users and actual team developers converted best on average — above stock-photo models. Likely explanation: banner blindness — we learn to ignore what looks like advertising and give attention to what's organic or unusual.
+## Real humans outconvert models — banner blindness explains why
+**Principle.** Highrise, the 37signals CRM, tested homepage variants with different human figures; real users and actual team developers converted best on average — above stock-photo models. (37signals later became Basecamp.) Likely explanation: banner blindness — we learn to ignore what looks like advertising and give attention to what's organic or unusual.
 **Apply when.** Choosing imagery for LPs and proof sections.
 **The move.** Prefer real users/team over polished models; user-generated reviews and simple real photos often beat studio shots. Chinese sites exploit this at scale with gamified UGC.
 **Source.** [@richardrx · 2025-11-04](https://x.com/richardrx/status/1985681720104903142)
 
 ## Compliments aren't validation — "what's missing for you to PIX now?" is
-**Principle.** Everyone loves your idea, nobody bought. Compliments are free and worth nothing (like your freemium). The simplest validation test: try to sell. If you can't close inside your ICP, ask directly: "Falta o que pra você fazer o PIX agora?" The pause reveals the truth — either the real objection (your build list) or excuses (the "loved it" was just politeness). Follow up: "If it had that, would you pay now?" Then do 20 sales this way.
+**Principle.** Everyone loves your idea, nobody bought. Compliments are free and worth nothing (like your freemium). The simplest validation test: try to sell. If you can't close inside your ICP, ask directly: "Falta o que pra você fazer o PIX agora?" ("What's missing for you to send the PIX instant payment right now?") The pause reveals the truth — either the real objection (your build list) or excuses (the "loved it" was just politeness). Follow up: "If it had that, would you pay now?" Then do 20 sales this way.
 **Apply when.** Collecting praise but no revenue.
 **The move.** Sell before building. Richard sold 20 subscriptions off a gray clickable wireframe — the QR code wasn't even real. Nobody said "paint the wireframe"; they asked for invoices and a second mechanic login. Those doubts became sales arguments and FAQ items. The gray was enough to prove the only thing that mattered: people with the pain and in a hurry to pay. Design came after, to scale what conversation already proved sells.
 **Source.** [@richardrx · 2026-07-07](https://x.com/richardrx/status/2074539418266812580) and [@richardrx · 2026-06-24](https://x.com/richardrx/status/2069743203863962080)

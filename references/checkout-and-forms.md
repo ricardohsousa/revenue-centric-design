@@ -3,11 +3,11 @@
 > Curated, distilled wisdom from @richardrx ("Richard — Design for startups"), translated from Portuguese. Each entry is a reusable principle linked to its source post. The checkout is where ~70% of drops happen — it's the highest-leverage page most founders treat as an afterthought.
 
 ## Checkout is where ~70% of drops happen — every extra input is less conversion
-**Principle.** At checkout, less is more. Each extra input is less conversion; ask for the minimum possible. Any new negative surprise is a reason to cancel — expensive shipping, paid shipping at all, service fee, packaging fee — embed every extra real into the product price, never as a hidden extra.
+**Principle.** At checkout, less is more. Each extra input is less conversion; ask for the minimum possible. Any new negative surprise is a reason to cancel — expensive shipping, paid shipping at all, service fee, packaging fee — embed every extra charge into the product price, never as a hidden extra.
 **Apply when.** Auditing or building any checkout, signup-to-paid flow, or high-stakes form.
-**The move.** (1) Minimum fields only. (2) No surprise fees — bake costs into the price. (3) Show security signals (even a lock icon with "compra segura" lifts conversion). (4) Show an extra discount in the cart if you have one (anchoring works for you there). (5) Display CNPJ/company data — a real company converts more. (6) Show product photos even for digital products. (7) Divide what's possible (barrier vs cognitive load). (8) Use mobile-appropriate inputs (numeric keyboard for phone). (9) Yes, social proof in checkout works. (10) Test — different ICPs perceive risk differently.
+**The move.** (1) Minimum fields only. (2) No surprise fees — bake costs into the price. (3) Show security signals (even a lock icon with "Compra segura" — "Secure purchase" — lifts conversion). (4) Show an extra discount in the cart if you have one (anchoring works for you there). (5) Display the CNPJ (Brazilian company-registration number) — a real company converts more. (6) Show product photos even for digital products. (7) Split what you can to reduce barriers and cognitive load. (8) Use mobile-appropriate inputs (numeric keyboard for phone). (9) Yes, social proof in checkout works. (10) Test — different ICPs perceive risk differently.
 **Voice.** "I worked at PayPal literally designing checkouts for the biggest e-commerces and brands in Brazil. Hundreds of them."
-**Source.** [@richardrx · 2025-12-13](https://x.com/richardrx/status/1999584679247134761)
+**Source.** [@richardrx · 2025-12-12](https://x.com/richardrx/status/1999584679247134761)
 
 ## You lose money on the boring screens
 **Principle.** Registration forms are where you lose users one input at a time, creating holes in your bucket and wasting CAC — while founders polish the hero. The idea is to remove cognitive load until the flow is so smooth the user doesn't notice it.

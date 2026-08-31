@@ -100,13 +100,7 @@
 **Source.** [@richardrx · 2026-08-03](https://x.com/richardrx/status/2084250609687884144)
 
 ## Competing on price is adverse selection — you filter in the worst client
-**Principle.** Price-led copycats attract bargain hunters: they enter because you're cheapest and leave the second someone is a real cheaper. High churn, zero loyalty, most support tickets. Price as bait is a filter for the client you least want. Better: Kawasaki's "Be a baker, not an eater" — bake your own pie via niche (CRM for facial-aesthetics clinics, not another CRM) and charge 5x with no comparison. Use the giant's weight against it (judo): big players' blind spots are in public complaints — ReclameAqui, app stores, Google Places, communities, FB/WhatsApp groups, niche sites. Each complainer represents ~26 equally unhappy silent ones.
+**Principle.** Price-led copycats attract bargain hunters: they enter because you're cheapest and leave the second someone is R$1 cheaper. High churn, zero loyalty, most support tickets. Price as bait is a filter for the client you least want. Better: Kawasaki's "Be a baker, not an eater" — bake your own pie via niche (CRM for facial-aesthetics clinics, not another CRM) and charge 5x with no comparison. Use the giant's weight against it (judo): big players' blind spots are in public complaints — ReclameAqui, app stores, Google Places, communities, FB/WhatsApp groups, niche sites. Each complainer represents ~26 equally unhappy silent ones.
 **Apply when.** Tempted to differentiate purely on being cheaper than a big player.
 **The move.** Mine complaints for the niche, angle, vocabulary, pain, and promise for your LP. Accept you'll be copied — storefronts look equal but the model underneath (your niche, angle, economics) isn't. McDonald's is a real-estate company dressed as a burger joint; BK is royalties. Same storefront, different machine.
-**Source.** [@richardrx · 2026-06-04](https://x.com/richardrx/status/2062314549483589691)
-
-## TAM is the ceiling, SAM is what your model reaches, SOM is what your traction can capture
-**Principle.** Founders inflate their market ("213M people in Brazil") but the real market is much smaller — credit-card holders, or the specific vertical. TAM is theoretical ceiling; SOM is what your real traction, activation, support capacity, and retention can capture — and that comes from CAC, activation rate, support load, and LTV, not a guessed percentage.
-**Apply when.** Sizing opportunity or being pitched a giant TAM.
-**The move.** Work TAM→SAM→SOM honestly: 118k repair shops → 76k mechanical-repair (TAM) → ~47k reachable (SAM) → capacity-driven: 10 demos/day = 3,360/yr = 7% of SAM. You don't change TAM; you change how much SAM you convert and retain. If capacity outruns the market, find channels at ≤ current CAC or raise LTV.
-**Source.** [@richardrx · 2026-06-25](https://x.com/richardrx/status/2070140923380420796)
+**Source.** [@richardrx · 2026-06-03](https://x.com/richardrx/status/2062314549483589691)

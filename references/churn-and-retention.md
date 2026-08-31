@@ -69,7 +69,7 @@
 **Principle.** Most churn traces to three causes, each with a distinct fix. (1) Bad onboarding → gradual guided immersion to what users value most, a Zeigarnik progress bar (incompleteness nags), and targeted tooltips on unexplored features. (2) Missing perceived value → show user ROI in a simple dashboard (Grammarly shows words helped), promote feature discovery continuously, build community. (3) Hard/confusing interface → fix via a proper product design project.
 **Apply when.** Churn is high and you don't know which of the three it is.
 **The move.** Diagnose first: users who never reach value (activation) vs users who reached it and still left (perceived value) vs users who struggled (interface). Each has a different owner and a different fix — don't treat all churn as one problem.
-**Source.** [@richardrx · 2025-12-18](https://x.com/richardrx/status/2001408166404530231)
+**Source.** [@richardrx · 2025-12-17](https://x.com/richardrx/status/2001408166404530231)
 
 ## Retention is raising the cost of leaving day after day — iFood's behavioral lock-in
 **Principle.** iFood isn't just a business model — it's Brazil's most sophisticated behavioral lock-in. Each layer (delivery, data, credit, card) raises the psychological and operational cost of leaving: sunk-cost effect plus ecosystem dependency. The restaurant doesn't stay because iFood is good; it stays because leaving got too expensive. Retention isn't a feature — it's the accumulated cost of exit.
@@ -77,10 +77,10 @@
 **The move.** Learn from the mechanism, ethically: every layer of value (data history, integrations, financial products, workflow embedding) makes leaving more expensive. The design goal isn't just "satisfy" — it's to increase the cost of leaving over time.
 **Source.** [@richardrx · 2026-03-27](https://x.com/richardrx/status/2037543117612630126)
 
-## Churn math: restructured onboarding can recover R$40k–120k ARR from an existing base
-**Principle.** 6% churn on 900 users at R$300 ARPU is R$16.2k leaving per month. Restructured onboarding (welcome contextual + empty state + activation checklist) cut churn ~30%: 16 fewer cancellations/month ≈ R$52.8k recovered on a base that already existed — no new traffic, no new feature. Lower churn also raises valuation because every growth action then works with more margin.
+## Churn math: restructured onboarding can preserve R$4.8k MRR from an existing base
+**Principle.** 6% churn on 900 users at R$300 ARPU is 54 cancellations, or R$16.2k MRR, leaving each month. Restructured onboarding (contextual welcome + empty state + activation checklist) cut cancellations by ~30%: about 16 accounts retained, preserving R$4.8k MRR — a R$57.6k ARR run-rate or R$52.8k over the post's stated 11-month average lifetime. No new traffic, no new feature.
 **Apply when.** Justifying onboarding investment to a numbers-driven founder.
-**The move.** Show the math: base × churn × ARPU × LTV. Each customer retained before they hit payback is pure recovered cash; every real invested in acquisition returns more once the bucket stops leaking.
+**The move.** Keep the units explicit: monthly cancellations = base × monthly churn; prevented cancellations = cancellations × relative reduction; recovered MRR = prevented cancellations × ARPU; ARR run-rate = recovered MRR × 12. For cohort value instead, multiply recovered MRR by the stated average lifetime in months. Lower churn also raises valuation because every growth action operates with more margin.
 **Source.** [@richardrx · 2026-03-19](https://x.com/richardrx/status/2034571753263939621)
 
 ## The funnel leaks at three points — diagnose which before fixing

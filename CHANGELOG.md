@@ -6,12 +6,12 @@ post included, so future updates know where to pick up.
 
 ## [1.2.0] — 2026-08-31
 
-- **+35 principles** distilled from [@richardrx](https://x.com/richardrx) (101 → 136).
+- **+32 principles** distilled from 34 [@richardrx](https://x.com/richardrx) posts (101 → 133).
 - **Coverage** extended to **2025-11-03 → 2026-08-12**, including 13 posts backfilled before
   the previous 2026-01-14 floor.
 - **2 new themes:** Checkout & Forms (5), Dashboards & Data Visualization (3).
-- Expanded: Conversion & Landing Pages (+9), Pricing & Monetization (+4), Churn & Retention (+5),
-  Product Strategy & Features (+6), Metrics & Experimentation (+3).
+- Expanded: Conversion & Landing Pages (+8), Pricing & Monetization (+3), Churn & Retention (+5),
+  Product Strategy & Features (+6), Metrics & Experimentation (+2).
 - SKILL.md description + reference index updated for checkout/dashboards keywords.
 
 ## [1.1.1] — 2026-08-30

@@ -19,4 +19,4 @@
 **Principle.** The origin of "dashboard" was a mud-guard on carriages. Over time gauges accumulated — but in software, a dashboard full of every possible KPI gives a false sense of completeness (GA4: has everything, little usable). Only put what's actionable for the specific profile using it.
 **Apply when.** Stakeholders keep asking to add "just one more" KPI.
 **The move.** Resist the complicators (like a luxury watch's excess dials — great for Patek Philippe, terrible for software). Relevance by role: a CEO doesn't need campaign engagement likes; an analyst may not have permission to see the full marketing budget. Personalize or die.
-**Source.** [@richardrx · 2025-11-05](https://x.com/richardrx/status/1985828780838097317)
+**Source.** [@richardrx · 2025-11-04](https://x.com/richardrx/status/1985828780838097317)
