@@ -4,6 +4,25 @@ All notable changes to this skill are documented here. Dates are BRT (UTC−3).
 The **Coverage** line in each release records the date of the most recent source
 post included, so future updates know where to pick up.
 
+## [1.2.1] — 2026-09-02
+
+- Source-fidelity fixes to 1.2.0 entries after re-reading all 34 source posts: the "Test hero
+  comprehension" move restored to the post's own order (headline = what the product does,
+  subheadline = ICP + result); the pricing sliding scale corrected (~10% of value generated is
+  the hard-to-prove case, not the easy one); checkout move (6) is "avoid dropdowns"; the
+  2025-11-04 dashboards entry now carries its own post's content (cognitive-load mechanism,
+  per-vertical KPI shortlists) instead of material from the 2025-12-16 post; the "Building is
+  the comfort zone" move grounded in its cited post; the 2026 LP checklist credited to
+  @namyakhann, whose post Richard translated.
+- Added an **Evidence** note on the Highrise test (37signals' own writeup contradicts the
+  stock-model comparison), Christoph Janz's five-paths framework, and four **Visual** lines with
+  bundled assets (annotated checkout, Duolingo DAU/CURR chart, Highrise A/B, annotated dashboard).
+- Translation: "oficina" → auto (repair) shop, "jiu-jitsu" restored, "blood panel", PMF step-8
+  wording, commodity-feature list in English.
+- "Map the whole journey to value" moved from Churn & Retention to Onboarding & Activation
+  (14 → 13, 19 → 20); the eight touched theme files re-sorted newest-first; `refresh_meta.py`
+  now actually validates the per-theme README table (its regex matched none of the padded rows).
+
 ## [1.2.0] — 2026-08-31
 
 - **+32 principles** distilled from 34 [@richardrx](https://x.com/richardrx) posts (101 → 133).

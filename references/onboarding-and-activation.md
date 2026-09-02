@@ -2,6 +2,12 @@
 
 > Curated, distilled wisdom from @richardrx ("Richard — Design for startups"), translated from Portuguese. Each entry is a reusable principle linked to its source post.
 
+## Map the whole journey to value — then fix the biggest drop, not the first step
+**Principle.** Founders rush to the top of the funnel when activation falls, but the leak is usually in the middle — the step where effort is already high and the user hasn't seen proof it's worth it. Method: (1) Define what "value" is (the first moment the user gets the promised result — measurable, visible in data). (2) List every step between signup and that value (every screen, click, wait, field — always more than you remember). (3) Measure drop per step; find the steepest fall. (4) Fix the biggest drop first — that's where the money is. (5) Diagnose why: friction (cut), confusion (direct attention), ordering (deliver value before asking effort).
+**Apply when.** Activation is low and you're not sure where the leak is.
+**The move.** Count the steps before first value — each is a chance to quit. High activation lives in the shortest path to first result, not the most complete product before it. Almost every founder has this map in their head and never on paper; the head version always looks shorter.
+**Source.** [@richardrx · 2026-07-08](https://x.com/richardrx/status/2074814716824731651)
+
 ## An onboarding video welcomes — it doesn't teach
 **Principle.** A good onboarding video isn't a manual (nobody reads their car's or iPhone's). It welcomes, builds connection, shows the product at a glance, and points to where value comes fastest.
 **Apply when.** Designing first-run onboarding or a welcome video.

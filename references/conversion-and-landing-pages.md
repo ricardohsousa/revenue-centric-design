@@ -2,6 +2,18 @@
 
 > Curated, distilled wisdom from @richardrx ("Richard — Design for startups"), translated from Portuguese. Each entry is a reusable principle linked to its source post.
 
+## Performance is conversion: 31% better LCP → +8% sales (Vodafone A/B)
+**Principle.** You can raise conversion before opening Figma — web performance is a conversion lever, not an engineering nicety. Vodafone Italy A/B tested web-vitals optimization (LCP 31% better than control, same offer/creative/screen, 100k clicks and 34k visits/day per variant, paid traffic): +8% sales, +15% lead-to-visit, +11% cart-to-visit.
+**Apply when.** Founders separate "conversion work" from performance work.
+**The move.** Treat LCP/web vitals as a conversion experiment with the same rigor as copy tests — especially on paid traffic where every bounce is paid for.
+**Source.** [@richardrx · 2026-08-04](https://x.com/richardrx/status/2084589988843299217)
+
+## Compliments aren't validation — "what's missing for you to PIX now?" is
+**Principle.** Everyone loves your idea, nobody bought. Compliments are free and worth nothing (like your freemium). The simplest validation test: try to sell. If you can't close inside your ICP, ask directly: "Falta o que pra você fazer o PIX agora?" ("What's missing for you to send the PIX instant payment right now?") The pause reveals the truth — either the real objection (your build list) or excuses (the "loved it" was just politeness). Follow up: "If it had that, would you pay now?" Then do 20 sales this way.
+**Apply when.** Collecting praise but no revenue.
+**The move.** Sell before building. Richard sold 20 subscriptions off a gray clickable wireframe — the QR code wasn't even real. Nobody said "paint the wireframe"; they asked for invoices and a second mechanic login. Those doubts became sales arguments and FAQ items. The gray was enough to prove the only thing that mattered: people with the pain and in a hurry to pay. Design came after, to scale what conversation already proved sells.
+**Source.** [@richardrx · 2026-07-07](https://x.com/richardrx/status/2074539418266812580) and [@richardrx · 2026-06-24](https://x.com/richardrx/status/2069743203863962080)
+
 ## "Paint the button" is judging the last line of a long cascade
 **Principle.** The visual layer of a landing page is the tip of a cascade that begins at the ICP — so "make it more colorful" critiques the *end* of a process as if it were the start.
 **Apply when.** Gathering or acting on LP feedback, or reaching for button color first.
@@ -16,6 +28,12 @@
 **Evidence.** A founder tripled ad spend; revenue rose only 11%. Warm-traffic conversion of ~3% (driven by Instagram followers) cratered to 0.5% on cold traffic; fixing the obvious lifted it to 2% — 4x the real number.
 **Voice.** "Scaling budget into cold traffic works like an honesty test: it shows how much of your conversion is your page and how much is borrowed trust."
 **Source.** [@richardrx · 2026-06-08](https://x.com/richardrx/status/2063972594223661127)
+
+## Test hero comprehension with a stranger from your ICP
+**Principle.** The cheapest usability test nobody runs: show your LP hero to one person for 5 seconds, take it away, ask "What does this product do? For whom?" If they can't answer, the hero failed — no matter how pretty it is. In those seconds the brain asks three questions, almost in order: what is this → is this for me → why should I care now. The mechanism is cognitive load: every second spent decoding what you do is a second closer to giving up — clarity beats cleverness at the top of the funnel, always.
+**Apply when.** A hero trades clarity for "creativity" ("Revolutionize your workflow" doesn't say what it does; "The definitive productivity platform" doesn't say for whom).
+**The move.** A hero needs: (1) a headline saying what the product does, in the customer's language, not internal jargon; (2) a subheadline nailing the ICP and the concrete result; (3) real visual proof — a screenshot of the product working, not a generic smiling illustration; (4) a specific CTA; (5) immediate social proof (a logo or a number) above the fold. Specificity sells: "Controle de comandas pra oficina mecânica" ("Work-order control for auto repair shops") beats "Software de gestão" ("Management software"). If you covered everything on the page except the hero, could a stranger from your ICP say what you sell in 5 seconds? Read with "Pass the 5-second test — lead with the problem, not the feature" (2026-05-01): that post argues for a pain-led headline, this one for a what-it-does headline — both demand the what / for whom / why-now answers inside 5 seconds.
+**Source.** [@richardrx · 2026-05-29](https://x.com/richardrx/status/2060409264683044995)
 
 ## Write the CTA microcopy, not the button color
 **Principle.** The CTA label moves conversion far more than button color or shape — it's the last thing the user reads before deciding, so it must reduce the mental effort of simulating what happens next.
@@ -131,17 +149,17 @@ Awareness → angle / hero / proof:
 **Voice.** "There's no 'conversion rate' in a vacuum. There's contextualized conversion."
 **Source.** [@richardrx · 2026-01-14](https://x.com/richardrx/status/2011427153133351046)
 
-## Test hero comprehension with a stranger from your ICP
-**Principle.** A second 5-second test complements the problem-led test above: show your LP hero to one person for 5 seconds, take it away, then ask "What does this product do? For whom?" If they can't answer, the hero failed — no matter how pretty it is. The brain needs three answers: what is this → is this for me → why should I care now.
-**Apply when.** A hero trades clarity for "creativity" ("Revolutionize your workflow" says nothing).
-**The move.** Use this with “Pass the 5-second test — lead with the problem, not the feature” above: let the headline lead with pain or a clear benefit, then make the subheadline identify the product, ICP, and concrete result. Add a real product screenshot, a specific CTA, and immediate social proof above the fold. Specificity sells: "Repair-shop work-order control" beats "Management software."
-**Source.** [@richardrx · 2026-05-29](https://x.com/richardrx/status/2060409264683044995)
-
 ## The 2026 landing page checklist
-**Principle.** An all-in-one checklist for a converting LP: Hero (1 clear promise / 1 specific audience / 1 exact-action CTA / show-don't-explain visual / trust seal above the fold). Copy (headline <10 words, benefit before feature, customer language, one central transformation, scannable in 5s). Social proof (logos if you have names, metrics if you have traction, specific result testimonials, zero generic praise). Structure (Hero → Pain → Solution → Proof → CTA; max 3 feature sections; FAQ kills top 5 objections; CTA repeated 2–3x). Technical (<3s load, real mobile-first, single-scroll flow).
+**Principle.** An all-in-one checklist for a converting LP — @namyakhann's (Supafast) list, which Richard translated and endorsed in full: Hero (1 clear promise / 1 specific audience / 1 exact-action CTA / show-don't-explain visual / trust seal above the fold). Copy (headline <10 words, benefit before feature, customer language, one central transformation, scannable in 5s). Social proof (logos if you have names, metrics if you have traction, specific result testimonials, zero generic praise). Structure (Hero → Pain → Solution → Proof → CTA; max 3 feature sections; FAQ kills top 5 objections; CTA repeated 2–3x). Technical (<3s load, real mobile-first, single-scroll flow).
 **Apply when.** Auditing or building any LP.
 **The move.** Run the checklist top to bottom. Mantra: Clarity > creativity. Result > feature. Speed > polish. If it doesn't convert in 2026, it's not your traffic — it's your page.
 **Source.** [@richardrx · 2026-01-02](https://x.com/richardrx/status/2007216871607771303)
+
+## Click triggers: one line of risk-reducing microcopy next to the CTA
+**Principle.** A single line of text reducing perceived risk can save conversion — in CRO these are "click triggers" (marketing calls it objection-breaking): "Lifetime guarantee," "Free shipping," "7 days free, no card." It's certainty placed on top of a known ICP doubt.
+**Apply when.** Users hesitate right before the CTA.
+**The move.** Find the real objections by talking to customers and reading complaint pages (ReclameAqui) and app-store comments; then test which click trigger performs best. No mystery, just work — and it works.
+**Source.** [@richardrx · 2025-12-19](https://x.com/richardrx/status/2002076748112875558)
 
 ## Founder LP guide: platform doesn't matter, load time does; proof must outweigh the promise
 **Principle.** Profits are more sensitive to conversions than to costs, and the landing page is often the first gate between a founder's product and its users. The platform matters less than speed, clarity, contrast, proof, and direct action.
@@ -149,18 +167,6 @@ Awareness → angle / hero / proof:
 **The move.** Follow five rules: (1) use any platform, but deliver content fast and target an "A" on GTMetrix; (2) lead with a short pain or clear benefit, then make the promise tangible in the subhead; (3) create visual contrast with what the ICP sees daily; (4) ensure proof ≥ promise, moving from strong/shallow at the top to denser evidence below; (5) use direct CTAs tied to the outcome about every 1.5 sections.
 **Voice.** "Nobody wants to know about your product's features — they want what it generates or the pain it kills. Not 6GB of space, 3,000 songs in your pocket."
 **Source.** [@richardrx · 2025-11-10](https://x.com/richardrx/status/1987842649261261240)
-
-## Performance is conversion: 31% better LCP → +8% sales (Vodafone A/B)
-**Principle.** You can raise conversion before opening Figma — web performance is a conversion lever, not an engineering nicety. Vodafone Italy A/B tested web-vitals optimization (LCP 31% better than control, same offer/creative/screen, 100k clicks and 34k visits/day per variant, paid traffic): +8% sales, +15% lead-to-visit, +11% cart-to-visit.
-**Apply when.** Founders separate "conversion work" from performance work.
-**The move.** Treat LCP/web vitals as a conversion experiment with the same rigor as copy tests — especially on paid traffic where every bounce is paid for.
-**Source.** [@richardrx · 2026-08-04](https://x.com/richardrx/status/2084589988843299217)
-
-## Click triggers: one line of risk-reducing microcopy next to the CTA
-**Principle.** A single line of text reducing perceived risk can save conversion — in CRO these are "click triggers" (marketing calls it objection-breaking): "Lifetime guarantee," "Free shipping," "7 days free, no card." It's certainty placed on top of a known ICP doubt.
-**Apply when.** Users hesitate right before the CTA.
-**The move.** Find the real objections by talking to customers and reading complaint pages (ReclameAqui) and app-store comments; then test which click trigger performs best. No mystery, just work — and it works.
-**Source.** [@richardrx · 2025-12-19](https://x.com/richardrx/status/2002076748112875558)
 
 ## Match CTA microcopy to the funnel stage
 **Principle.** Button text should change with the user's progress in the funnel — the verb matches the mental state at each stage. First interaction: "Descubra como funciona" ("See how it works"). Product page: "Quero esse produto" ("I want this product"). Checkout: "Finalizar minha compra" ("Complete my purchase"). Short (≤4 words), clear, directional. This discreet personalization raises perceived control, confidence, and conversion.
@@ -172,10 +178,6 @@ Awareness → angle / hero / proof:
 **Principle.** Highrise, the 37signals CRM, tested homepage variants with different human figures; real users and actual team developers converted best on average — above stock-photo models. (37signals later became Basecamp.) Likely explanation: banner blindness — we learn to ignore what looks like advertising and give attention to what's organic or unusual.
 **Apply when.** Choosing imagery for LPs and proof sections.
 **The move.** Prefer real users/team over polished models; user-generated reviews and simple real photos often beat studio shots. Chinese sites exploit this at scale with gamified UGC.
+**Evidence.** The stock-model / team-developer comparison is the post's. 37signals' own writeup of the test ([Signal v. Noise, "Behind the scenes: A/B testing part 3"](https://signalvnoise.com/posts/2991-behind-the-scenes-ab-testing-part-3-final)) photographed only real Highrise customers — no stock models, no staff — and found the specific person barely mattered: the lift came from the person-photo layout beating the long-form page.
+**Visual.** The Highrise homepage test side by side — the illustrated "original design" vs the "person design" fronted by a real customer's photo and quote, marked +102.5% — `../assets/1985681720104903142__1.jpg`
 **Source.** [@richardrx · 2025-11-04](https://x.com/richardrx/status/1985681720104903142)
-
-## Compliments aren't validation — "what's missing for you to PIX now?" is
-**Principle.** Everyone loves your idea, nobody bought. Compliments are free and worth nothing (like your freemium). The simplest validation test: try to sell. If you can't close inside your ICP, ask directly: "Falta o que pra você fazer o PIX agora?" ("What's missing for you to send the PIX instant payment right now?") The pause reveals the truth — either the real objection (your build list) or excuses (the "loved it" was just politeness). Follow up: "If it had that, would you pay now?" Then do 20 sales this way.
-**Apply when.** Collecting praise but no revenue.
-**The move.** Sell before building. Richard sold 20 subscriptions off a gray clickable wireframe — the QR code wasn't even real. Nobody said "paint the wireframe"; they asked for invoices and a second mechanic login. Those doubts became sales arguments and FAQ items. The gray was enough to prove the only thing that mattered: people with the pain and in a hurry to pay. Design came after, to scale what conversation already proved sells.
-**Source.** [@richardrx · 2026-07-07](https://x.com/richardrx/status/2074539418266812580) and [@richardrx · 2026-06-24](https://x.com/richardrx/status/2069743203863962080)
