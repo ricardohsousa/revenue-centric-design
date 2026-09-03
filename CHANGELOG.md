@@ -4,6 +4,27 @@ All notable changes to this skill are documented here. Dates are BRT (UTC−3).
 The **Coverage** line in each release records the date of the most recent source
 post included, so future updates know where to pick up.
 
+## [1.3.0] — 2026-09-03
+
+- **+1 principle** distilled after individually reviewing 16 [@richardrx](https://x.com/richardrx)
+  posts published from 13 Aug through 3 Sep 2026 (133 → 134; 135 → 136 cited posts).
+- **Coverage** extended to **2025-11-03 → 2026-08-26**, the newest source actually included.
+  The complete candidate window was reviewed through **2026-09-03**; coverage was not advanced
+  past rejected posts.
+- Expanded Pricing & Monetization (+1): a disfluent font on genuine promotional prices plus the
+  distinct effects of tier labels on purchase incidence and initial tier choice.
+- Bundled the three pricing screenshots quoted by the 26 Aug source. The two pricing
+  studies were checked against their abstracts, and the entry distinguishes their experimental
+  conditions from Richard's practitioner application.
+- Rejected as already covered or redistilled: `2095539158592729523`, `2095131360054723045`,
+  `2094880682627784875`, `2094769345821905094`, `2092589156509581614`,
+  `2092230297999786254`, `2091906704489271659`, `2091869359618584658`,
+  `2090509133405380624`, `2089358047487344848`, `2088270847324594453`,
+  `2087885887895904369`.
+- Rejected as weak, promotional, or out of scope: `2094404750229836066`,
+  `2093409043834339589`, `2090070014938304806`. These 15 IDs are review decisions, not uncited
+  sources, and therefore are intentionally absent from `updater/posts.txt`.
+
 ## [1.2.1] — 2026-09-02
 
 - Source-fidelity fixes to 1.2.0 entries after re-reading all 34 source posts: the "Test hero

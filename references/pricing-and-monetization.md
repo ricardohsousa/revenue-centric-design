@@ -2,6 +2,14 @@
 
 > Curated, distilled wisdom from @richardrx ("Richard — Design for startups"), translated from Portuguese. Each entry is a reusable principle linked to its source post.
 
+## Use a disfluent font for genuine deals — and name tiers for the mix you want
+**Principle.** A uniformly polished pricing page can be easy to scan yet weak at selling. For a genuinely favorable promotion, a disfluent (ugly) font on the price can make people process the number more deeply. Tier labels can change purchase incidence and which tier buyers choose — and those effects can run in opposite directions.
+**Apply when.** Pricing looks clean but plan distribution has been flat for months, or every company's pricing cards feel interchangeable.
+**The move.** Keep the rest of the page legible, but test a deliberately ugly or disfluent font on a genuine promotional price — never make the whole UI ugly. Choose labels by the outcome: in Wang et al.'s experiments, a superior-sounding metal ladder (Silver/Gold/Platinum) reduced choice deferral but moved the mix down, while an inferior-sounding ladder (Bronze/Silver/Gold) moved it toward higher-priced tiers. Richard applies that result to functional names such as Basic/Standard/Essential; treat that mapping as a hypothesis and measure purchase incidence and initial tier selection separately.
+**Evidence.** Motyka et al. (2016) found that disfluent fonts on price promotions prompt deeper processing and increase purchase behavior when the offer is a deal, even though people like the display less. Across five experiments (1,954 participants), Wang et al. (2024) found superior-sounding labels increased purchase incidence but shifted choices toward cheaper options; inferior-sounding labels increased higher-priced choices.
+**Visual.** Three quoted pricing screenshots — 3-column Basic/Starter/Pro with near-identical includes; 2-column Launch/Scale; one-time Starter/Premium/Pro plus Ultimate — are clean generic templates Richard challenges the reader to tell apart: `../assets/2092692547244007852__q__1.jpg`, `../assets/2092692547244007852__q__2.jpg`, `../assets/2092692547244007852__q__3.jpg`
+**Source.** [@richardrx · 2026-08-26](https://x.com/richardrx/status/2092692547244007852)
+
 ## Price from cost+margin floor and value ceiling — never tarot or competitor-minus-20%
 **Principle.** Two calculations give your floor and ceiling. Floor = cost to serve + target margin (infra, support, tools, tokens; if R$10/account and 80% margin, floor is R$50). But two traps: price too low signals low quality before use, and CAC math can eat the margin (CAC R$100 + margin R$40/mo = 2.5-month payback; churn at month 3 = you worked 3 months for R$20). Ceiling = reference value — what the client pays today to solve it their way (Excel + 1.5h/day of admin; or the loss they absorb by not solving).
 **Apply when.** Setting or revisiting SaaS pricing.
