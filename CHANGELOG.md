@@ -13,6 +13,9 @@ post included, so future updates know where to pick up.
   past rejected posts.
 - Expanded Pricing & Monetization (+1): a disfluent font on genuine promotional prices plus the
   distinct effects of tier labels on purchase incidence and initial tier choice.
+- Cross-referenced the new entry with "Build a single value axis" (2026-02-02), which recommends
+  aspirational Starbucks-style tier names, so the two naming positions read as one tradeoff
+  (units vs tier mix) rather than opposing advice.
 - Bundled the three pricing screenshots quoted by the 26 Aug source. The two pricing
   studies were checked against their abstracts, and the entry distinguishes their experimental
   conditions from Richard's practitioner application.
